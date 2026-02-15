@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fe1190fb3a9b4347a1afb6c372b3777, type: 3}
+  m_Name: J Of Spade
+  m_EditorClassIdentifier: Assembly-CSharp::CardData
+  suit: 3
+  rank: 11
+  frontSprite: {fileID: 6372299707657410833, guid: 4485db747f08c4c54bda64447581771f, type: 3}
+  backSprite: {fileID: -6238535125790681457, guid: a36777132b6bc413eb3281756b3c641e, type: 3}
